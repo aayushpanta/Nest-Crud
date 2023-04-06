@@ -1,0 +1,14 @@
+NestJS Research:
+
+NestJS Contoller/Provider/Module Architecure
+Pipes(for transformation/validation) and Guards(for Authorization)
+Custom decorators
+Database Integration with Prisma ORM
+JWT Authentication
+End-to-End Testing
+Swagger Documentation
+
+ML Research:
+
+Stable Diffusion
+DeepDream
